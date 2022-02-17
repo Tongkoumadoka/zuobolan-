@@ -177,7 +177,7 @@ ctrl shift u 大写
 History|2018_Book_GlobalHistoryAndNewPolycentric
 ```
 
-#### 4.各种快捷方式
+#### 4.emmt书写方式
 
 ##### @1.箭头函数
 
@@ -185,3 +185,39 @@ History|2018_Book_GlobalHistoryAndNewPolycentric
 an + tab
 ```
 
+#### 5.在vscode中操作git
+
+##### @1.在远程github仓库得到对应http链接
+
+![image-20220217102610787](C:\Users\inui\AppData\Roaming\Typora\typora-user-images\image-20220217102610787.png)
+
+##### @2.在本地创建对应文件夹并克隆
+
+```
+这里可以使用小乌龟的克隆
+点击后修改url即可
+这样就初始化了git仓库
+```
+
+![image-20220217102734423](C:\Users\inui\AppData\Roaming\Typora\typora-user-images\image-20220217102734423.png)
+
+##### @3.vscode保存文件到暂存区
+
+修改本地文件内容后
+
+```
+点击+可以将文件保存到暂存区 
+git add .
+```
+
+
+
+![image-20220217103254070](C:\Users\inui\Desktop\博客学习\截图保存地址\image-20220217103254070.png)
+
+##### @4.vscode提交代码到本地仓库
+
+![image-20220217103412766](C:\Users\inui\Desktop\博客学习\截图保存地址\image-20220217103412766.png)
+
+##### @5.vscode推送
+
+![image-20220217103450213](C:\Users\inui\Desktop\博客学习\截图保存地址\image-20220217103450213.png)

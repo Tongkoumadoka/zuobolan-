@@ -268,7 +268,7 @@ git push //提交到远程
 
 ```
 //2.输入如下
-ssh-keygen -t rsa -C "xxxxx@xxxxx.com"  
+ssh-keygen -t rsa -C "xxxxx@xxxxx.com"   
 
 //注意只要满足邮箱格式就行,推荐常用方便记忆
 ```
