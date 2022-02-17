@@ -1,10 +1,10 @@
-##### @1.调出全局搜索,方便改bug
+##### @1.调出全局搜索,方便改 bug
 
 ctrl + f
 
-enter键向下一个位置跳转
+enter 键向下一个位置跳转
 
-esc关闭
+esc 关闭.
 
 ##### @2.调出命令行
 
@@ -20,9 +20,9 @@ F11
 
 4.关闭侧边栏
 
-ctrl B 
+ctrl B
 
-5.关闭fn的情况下
+5.关闭 fn 的情况下
 
 home-end 跳转改行行首行位
 
@@ -38,11 +38,11 @@ home-end 跳转改行行首行位
 
 9.跳转到函数定义文件
 
-按住ctrl点击函数名
+按住 ctrl 点击函数名
 
 看完之后
 
-alt + 左方向键返回 
+alt + 左方向键返回
 
 ##### @10.打开命令面板!!
 
@@ -69,7 +69,7 @@ Ctrl + home/end
 ##### @3.光标回到该行最前和最后
 
 ```java
-home / end 
+home / end
 ```
 
 ##### @4.回到上一次光标的位置,光标回退!!
@@ -78,7 +78,7 @@ home / end
 Ctrl + U
 ```
 
-有时候vue文件，你改了html，需要去下面改js，改完js又需要回去，这时候Cmd+U直接回
+有时候 vue 文件，你改了 html，需要去下面改 js，改完 js 又需要回去，这时候 Cmd+U 直接回
 
 ##### @5.选中光标移动的内容!!! 超级实用
 
@@ -93,9 +93,9 @@ Ctrl + U
 ctrl + 左右方向键
 ```
 
-5和6 一起用就可以选中一个单词迅速删除/复制/剪切等
+5 和 6 一起用就可以选中一个单词迅速删除/复制/剪切等
 
-先方向键移动到单词首部,然后按住shift,再方向键移动右键,就选中该单词内容了
+先方向键移动到单词首部,然后按住 shift,再方向键移动右键,就选中该单词内容了
 
 ```
 注意!
@@ -136,7 +136,7 @@ alt shift 上下方向键
 
 ##### @12.跳转到某一行
 
-比如报错了你要调到1000行代码中的第50行,太麻烦了手动
+比如报错了你要调到 1000 行代码中的第 50 行,太麻烦了手动
 
 ```
 ctrl g 输入行数回车
@@ -171,13 +171,11 @@ ctrl shift l 小写
 ctrl shift u 大写
 ```
 
-
-
 ```
 History|2018_Book_GlobalHistoryAndNewPolycentric
 ```
 
-#### 4.emmt书写方式
+#### 4.emmt 书写方式
 
 ##### @1.箭头函数
 
@@ -185,9 +183,9 @@ History|2018_Book_GlobalHistoryAndNewPolycentric
 an + tab
 ```
 
-#### 5.在vscode中操作git
+#### 5.在 vscode 中操作 git
 
-##### @1.在远程github仓库得到对应http链接
+##### @1.在远程 github 仓库得到对应 http 链接
 
 ![image-20220217102610787](C:\Users\inui\AppData\Roaming\Typora\typora-user-images\image-20220217102610787.png)
 
@@ -201,23 +199,21 @@ an + tab
 
 ![image-20220217102734423](C:\Users\inui\AppData\Roaming\Typora\typora-user-images\image-20220217102734423.png)
 
-##### @3.vscode保存文件到暂存区
+##### @3.vscode 保存文件到暂存区
 
 修改本地文件内容后
 
 ```
-点击+可以将文件保存到暂存区 
+点击+可以将文件保存到暂存区
 git add .
 ```
 
-
-
 ![image-20220217103254070](C:\Users\inui\Desktop\博客学习\截图保存地址\image-20220217103254070.png)
 
-##### @4.vscode提交代码到本地仓库
+##### @4.vscode 提交代码到本地仓库
 
 ![image-20220217103412766](C:\Users\inui\Desktop\博客学习\截图保存地址\image-20220217103412766.png)
 
-##### @5.vscode推送
+##### @5.vscode 推送
 
 ![image-20220217103628491](../截图保存地址/image-20220217103628491.png)
